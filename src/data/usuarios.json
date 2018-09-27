@@ -1,0 +1,37 @@
+[{
+    "id": 1,
+    "nome": "Motorista 1",
+    "email": "m1@teste.com",
+    "senha": "m1",
+    "tipo": {
+        "id": 1,
+        "nome": "motorista"
+    }
+},{
+    "id": 2,
+    "nome": "Motorista 2",
+    "email": "m2@teste.com",
+    "senha": "m2",
+    "tipo": {
+        "id": 1,
+        "nome": "motorista"
+    }
+},{
+    "id": 3,
+    "nome": "cooperativa 1",
+    "email": "c1@teste.com",
+    "senha": "c1",
+    "tipo": {
+        "id": 2,
+        "nome": "cooperativa"
+    }
+},{
+    "id": 4,
+    "nome": "cooperativa 2",
+    "email": "c2@teste.com",
+    "senha": "c2",
+    "tipo": {
+        "id": 2,
+        "nome": "cooperativa"
+    }
+}]

@@ -1,0 +1,74 @@
+.w100 button {
+    width: 100%;
+}
+
+.ant-layout, .containerLogin .ant-layout-footer {
+    background: #fff;
+}
+.ant-layout .containerLogin {
+    border: 1px #246 solid;
+    background: linear-gradient(to left, #245, #246);
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    position: relative;
+    margin-top: 15%;
+    width: 400px;
+    margin: 0 auto;
+    margin-top: 15%;
+}
+
+.bgColor {
+    background: linear-gradient(to left, #245, #246);
+}
+
+.ant-form-item-control-wrapper {
+    background: linear-gradient(to left, #245, #246);
+    color: #fff;
+    text-align: center;
+    border-bottom: 1px;
+}
+
+.tituloLogin span {
+    color: #fff;
+    text-transform: uppercase;
+    padding-bottom: 10px;
+    width: 50%;
+    border-bottom: 1px solid #fff;
+}
+
+.ant-form {
+    padding: 9px 46px 46px;
+    margin-top: 20px;
+}
+
+.login-form input {
+    margin-top: 10px;
+    border-radius: 0px 
+}
+
+.ant-layout-header, .ant-menu {
+    background: linear-gradient(to left, #245, #246);
+}
+.logo {
+    font-size: 22px;
+}
+.logo, .titulo {
+    float: left;
+    color: #fff;
+    margin-right: 40px;
+}
+
+.usuario {
+    color: #fff;
+    float: right;
+}
+
+.nome_usuario {
+    margin-left: 5px;
+}
+
+.avatar {
+    float: none!important;
+    left: 40px;
+}
