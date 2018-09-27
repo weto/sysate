@@ -1,7 +1,7 @@
 # navegacaoReact
-Projeto desenvolvido em React, Lodash, webpack, Babel e JQuery.
+Projeto desenvolvido em React e Redux.
 
-Entrar no diretório do projeto e rodar os seguintes comandos para subir o código.
+Entrar no diretório e rodar os seguintes comandos para subir o código.
 
-Comandos: npm install e npm start
+Comandos: npm install e npm start.
 
