@@ -1,5 +1,5 @@
 # Sistema de gerenciamento de transporte publico
-Projeto desenvolvido em React e Redux.
+Projeto desenvolvido em React, Redux e Ant Design.
 
 Entrar no diretório e rodar os seguintes comandos para subir o código.
 
